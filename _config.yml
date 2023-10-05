@@ -2,9 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Haruka Takagi's Data Science Portfolio
-logo: images/cute_simon.png
-description: Thanks for stopping by my data science portfolio! Simon welcomes you to this page! Grab a coffee and please browse around the projects that are of interest to you!  <br /> <br /> Feel free to contact me via email! <br /> haruka.takagi.datascience@gmail.com  
+title: Arailym Mussilim
+description: Hi there! Please take a look at my data analyst portfolio and do not hesitate to reach out to me at @arailym.mussilim@mail.utoronto.ca
 show_downloads: false
 google_analytics: true
-theme: jekyll-theme-minimal
