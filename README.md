@@ -18,6 +18,6 @@ Feel free to reach out to me at [arailym.mussilim@mail.utoronto.ca](mailto:arail
 |:-------------|:------------------|:------|
 | 1 | PowerBI visualization | Toyota Sales Data Visualization  |
 | 2 | SQL queries   | SQL  |
-| 3 | Data analysis with Python      | Python   |
+| 3 | Data analysis with Python      | [Python](https://arai-mn.github.io/Jupyter-Python-projects/)   |
 | 4 | HTML/CSS | PROJECT  |
 
