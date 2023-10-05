@@ -13,11 +13,52 @@ I'm excited to connect with like-minded professionals, learn from their experien
   
 Feel free to reach out to me at [arailym.mussilim@mail.utoronto.ca](mailto:arailym.mussilim@mail.utoronto.ca). Looking forward to connecting with you!
 
-## Data Analysis Projects 
-|        | Topic         | Project |
-|:-------------|:------------------|:------|
-| 1 | PowerBI visualization | Toyota Sales Data Visualization  |
-| 2 | SQL queries   | SQL  |
-| 3 | Data analysis with Python      | [Python](https://arai-mn.github.io/Jupyter-Python-projects/)   |
-| 4 | HTML/CSS | PROJECT  |
+
+|        | Topic        | Project           |
+| ------------- |-------------|-------------|
+|1| Data Correlations and linear Regression (Python)    | [Housing Sales Price Analysis](https://arai-mn.github.io/DataCorrelations-LinearRegression/) |
+|2| Data analysis, Outliers/Categorical Imputation      | [AirBnB dataset](https://arai-mn.github.io/AirBnB-dataAnalysis/) |
+|3| Android venue booking app      | [Event and Venue Booking](https://arai-mn.github.io/CSCB07_venuebookingapp_Android/) |
+|4| Flask, SQLite website      | [CSCB20 Website](https://arai-mn.github.io/cscb20/) |
+|5| MERN stack website, SCRUM methodology      | [UTSC ClubHouse](https://arai-mn.github.io/cscb20/) |
+|6| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
+|7| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
+|8| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
+|9| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
+
+<br />
+
+## PROJECT OVERVIEWS
+Below is a description and brief overview for each project!
+
+[1. Data Correlations and linear Regression (Python)](https://arai-mn.github.io/DataCorrelations-LinearRegression/)<br />
+Final objective is to use linear regression to predict the house prices as accurately as possible, understanding what drives housing prices and how potential home owners value different features of a house. <br />
+<br />
+**Subject Areas**: Data Manipulation, Exploratory Data Analysis, Feature Selection, Linear regression <br />
+<br />
+<br />
+[2. Data analysis, Outliers/Categorical Imputation ](https://arai-mn.github.io/AirBnB-dataAnalysis/)<br />
+This project is  <br />
+<br />
+**Subject Areas**:  Data Analysis, Statistical Analysis, Goodness of Fit Test <br />
+<br />
+<br />
+[3. Android venue booking app](https://arai-mn.github.io/CSCB07_venuebookingapp_Android/)<br />
+a CRUD Android application for creating and booking venues and events. Supports both normal and admin users with a different set of permissions for venue creation, editing, and deletion. Developed in Android Studio and integrated with the Firebase Realtime Database and Authentication APIs. - Firebase, Android Studio, Java <br />
+<br />
+**Subject Areas**: Econometrics, Stata <br />
+<br />
+<br />
+[4. Flask, SQLite website ](https://arai-mn.github.io/cscb20/)<br />
+Designed and created a course website in a team of 3, implementing a secure backend user registration and authentication system, as well as grading and feedback systems on a Flask and SQLite backend. - Flask, SQLite, Python, BCrypt, HTML, CSS, JavaScript <br />
+<br />
+**Subject Areas**:  Unsupervised machine learning, R. <br />
+<br />
+<br />
+[5. MERN stack website, SCRUM methodology](https://arai-mn.github.io/cscb20/)<br />
+Project overview goes here <br />
+<br />
+**Subject Areas**: Webscraping, Data Collection, Python, Data Manipulation, Data Analysis. <br />
+<br />
+<br />
 
