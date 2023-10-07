@@ -1,4 +1,4 @@
-# Welcome to my data analyst portfolio!
+# Arailym Mussilim
 
 A little bit about myself: 
 - UofT graduate with an honors degree in Management & IT with a passion for data analytics & project management
@@ -29,7 +29,7 @@ Feel free to reach out to me at [arailym.mussilim@mail.utoronto.ca](mailto:arail
 
 <br />
 
-## PROJECT OVERVIEWS
+## Project Overviews
 Below is a description and brief overview for each project!
 
 [1. Data Correlations and linear Regression (Python)](https://arai-mn.github.io/DataCorrelations-LinearRegression/)<br />
