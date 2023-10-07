@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Arailym Mussilim
-description: Hi there! Please take a look at my data analyst portfolio and do not hesitate to reach out to me at @arailym.mussilim@mail.utoronto.ca
+description:  Welcome to my data analyst portfolio!
 show_downloads: false
 google_analytics: true
