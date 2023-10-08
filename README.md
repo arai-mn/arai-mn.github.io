@@ -22,10 +22,6 @@ Feel free to reach out to me at [arailym.mussilim@mail.utoronto.ca](mailto:arail
 |3| Android venue booking app      | [Event and Venue Booking](https://arai-mn.github.io/CSCB07_venuebookingapp_Android/) |
 |4| Flask, SQLite website      | [CSCB20 Website](https://arai-mn.github.io/cscb20/) |
 |5| MERN stack website, SCRUM methodology      | [UTSC ClubHouse](https://arai-mn.github.io/cscb20/) |
-|6| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
-|7| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
-|8| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
-|9| Placeholder      | [Placeholder](https://arai-mn.github.io/cscb20/) |
 
 <br />
 
@@ -57,9 +53,9 @@ In collaboration with two team members, I developed and established a course web
 <br />
 <br />
 [5. MERN stack website, SCRUM methodology](https://arai-mn.github.io/cscb20/)<br />
-Project overview goes here <br />
+Worked in a team of 7 to develop a webapp which allows UTSC students to connect with clubs by sharing information about upcoming events and allowing them to register to join the club right from the app. The objective of this web application is to bridge the gap between students and clubs at UTSC, by providing students with a central hub where they can easily connect with clubs and keep up-to-date with upcoming events. In particular, this web application would allow students, especially first years, to easily discover clubs and events that align with their interests. Additionally, this application makes it easier for clubs to reach out to new students who may be interested in joining or attending their events. <br />
 <br />
-**Subject Areas**: <br />
+**Subject Areas**: MERN stack -> MongoDB, React, Node.js, Express, Jira, SCRUM methodology, React, Material UI, <br />
 <br />
 <br />
 
